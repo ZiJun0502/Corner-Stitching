@@ -1,0 +1,3 @@
+#!/bin/bash
+make
+./corner_stitches testcase/case0.txt result/output0.txt

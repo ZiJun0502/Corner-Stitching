@@ -1,0 +1,6 @@
+*.o
+*.swn
+*.swp
+*.swo
+result/*
+layout/*
