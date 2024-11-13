@@ -17,5 +17,5 @@ Example input and output file formats can be found in the testcase and output di
 ## Visualization
 The Python script `draw_block_layout.py` can be used to visualize the output of a test case. Running a test case will generate a text file named `draw.txt`, which contains the data for visualization. To create the visualization image, run:
 ```bash
-python draw_block_layout.py draw.png
+python draw_block_layout.py draw.txt draw.png
 ```
